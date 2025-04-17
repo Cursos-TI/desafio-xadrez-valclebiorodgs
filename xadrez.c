@@ -31,15 +31,15 @@
 // }
 
 
-// int main(){
+ int main(){
 
-//      printf(" - DESAFIO DE XADREZ -\n"); // Estrutura com "For"
-//      printf("A peça 'Rainha' esta se movimentando oito casas a esquerda:\n");
+      printf(" - DESAFIO DE XADREZ -\n"); // Estrutura com "For"
+      printf("A peça 'Rainha' esta se movimentando oito casas a esquerda:\n");
 
-//      for (int i = 0; i < 8; i++){
-//         printf("Esquerda\n");
-//      }
+      for (int i = 0; i < 8; i++){
+         printf("Esquerda\n");
+      }
 
-//      return 0;
+return 0;
 
 }
